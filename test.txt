@@ -5,3 +5,5 @@ this is a test on the ed branch
 added more shit and stuff
 
 more edits - intentional conflict here
+
+hi there from ed
